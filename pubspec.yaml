@@ -1,0 +1,37 @@
+name: book_app
+description: A new Flutter project.
+
+dependencies:
+
+  cloud_firestore:
+    
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.0
+
+  pdftron_flutter:
+    git:
+      url: git://github.com/PDFTron/pdftron-flutter.git
+  permission_handler: '3.0.1'
+
+  permission: 0.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  # assets:
+  #   - res/webmaster.jpeg
+  #   - res/indesign.jpg
+  #   - res/sketchup.jpeg
+  #   - res/photoshop.jpg
+  #   - res/max_3d.jpeg
+  #   - res/premier.jpg
+  #   - res/maya.jpeg
+  #   - res/corel.jpg
+  #   - res/drafter.jpg
+  #   - res/1.jpg
+   
+  
